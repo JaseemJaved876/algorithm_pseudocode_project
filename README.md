@@ -1,1 +1,1 @@
-# algorithm_pseudocode_project
+It contains algorithms and pseudocodes of multiple problems
